@@ -77,6 +77,12 @@ const contributor = [
     instagramUsername: "athallah_zaq",
     linkedinUsername: "athallah-zaidan"
   },
+  {
+    fullname: "Zaid Al Maghfur",
+    githubUsername: "ZAIDALMAGHFUR",
+    instagramUsername: "za_id8741",
+    linkedinUsername: "zaid-al-maghfur-67a52a244"
+  },
 ];
 
 export default contributor;
